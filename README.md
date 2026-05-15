@@ -54,12 +54,12 @@ Tools for Indonesian payment systems and banking APIs.
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=nds-stack&show_icons=true&theme=radical&hide=stars&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=nds-stack&show_icons=true&theme=radical&hide=stars"/>
   <img height="160em" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=nds-stack&layout=compact&theme=radical&hide=php&exclude_repo=9router,opencode,ds2api,SawitDB,fcm_worker,TiktokAutoUploader"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-anuraghazra.vercel.app/?user=nds-stack&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=nds-stack&theme=radical&hide_border=true"/>
 </p>
 
 ---
