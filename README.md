@@ -4,7 +4,7 @@
 
 I build tools across languages — TypeScript, Go, Rust, JavaScript — whatever gets the job done. Currently focused on the `@nds-stack` ecosystem of Bun-native libraries, but you'll find me experimenting everywhere.
 
-> "PHP is dead. Long live everything else." 🚫☕
+> "PHP is the exception." 🚫
 
 ---
 
@@ -54,12 +54,12 @@ Tools for Indonesian payment systems and banking APIs.
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nds-stack&show_icons=true&theme=radical&hide=stars&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nds-stack&layout=compact&theme=radical&hide=php&exclude_repo=9router,opencode,ds2api,SawitDB,fcm_worker,TiktokAutoUploader"/>
+  <img height="160em" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=nds-stack&show_icons=true&theme=radical&hide=stars&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=nds-stack&layout=compact&theme=radical&hide=php&exclude_repo=9router,opencode,ds2api,SawitDB,fcm_worker,TiktokAutoUploader"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nds-stack&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats-anuraghazra.vercel.app/?user=nds-stack&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -95,6 +95,4 @@ Tools for Indonesian payment systems and banking APIs.
 
 <p align="center">
   <i>Built with ❤️ across TypeScript · Go · Rust · JavaScript</i>
-  <br/>
-  <i>No PHP was harmed in the making of this profile.</i>
 </p>
