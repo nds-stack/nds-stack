@@ -54,8 +54,8 @@ Tools for Indonesian payment systems and banking APIs.
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nds-stack&show_icons=true&theme=radical&hide=stars&count_private=true&include_all_commits=true&hide_title=true&custom_title=💻%20Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nds-stack&layout=compact&theme=radical&hide=php&exclude_repo=9router,opencode,ds2api,SawitDB,fcm_worker,TiktokAutoUploader&hide_title=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nds-stack&show_icons=true&theme=radical&hide=stars&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nds-stack&layout=compact&theme=radical&hide=php&exclude_repo=9router,opencode,ds2api,SawitDB,fcm_worker,TiktokAutoUploader"/>
 </p>
 
 <p align="center">
