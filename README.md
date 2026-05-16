@@ -23,17 +23,21 @@ JavaScript  ████████████████████  (Brows
 
 Bun-native, zero-dependency libraries for the modern Bun runtime.
 
-| Module | Description | Status | Bundle |
-|--------|-------------|--------|--------|
-| [bunql](https://github.com/nds-stack/bunql) | SQLite wrapper — queued writes, FTS5, HTTP bridge | ✅ v0.1.0-alpha.7 | 31 KB |
-| [bun-cache](https://github.com/nds-stack/bun-cache) | In-memory cache — TTL, LRU eviction | ✅ v0.1.0-alpha.2 | 4 KB |
-| [bun-logger](https://github.com/nds-stack/bun-logger) | Structured logger — JSON, multi-transport | ✅ v0.1.0-alpha.0 | 4 KB |
-| [bun-env](https://github.com/nds-stack/bun-env) | Env validator — schema coercion, 7 types | ✅ v0.1.0-alpha.0 | 2.7 KB |
-| [bun-id](https://github.com/nds-stack/bun-id) | URL-safe ID — ULID, NanoID, ShortID | ✅ v0.1.0-alpha.0 | 1.2 KB |
-| [bun-rate-limit](https://github.com/nds-stack/bun-rate-limit) | Token bucket rate limiter | ✅ v0.1.0-alpha.0 | 1.6 KB |
-| [bun-args](https://github.com/nds-stack/bun-args) | CLI argument parser — flags, options, positionals | ✅ v0.1.0-alpha.0 | 2.8 KB |
-| [bun-semaphore](https://github.com/nds-stack/bun-semaphore) | Async semaphore — acquire, release, timeout | ✅ v0.1.0-alpha.0 | 1.6 KB |
-| [bun-pool](https://github.com/nds-stack/bun-pool) | Generic connection pool — min/max, health check | ✅ v0.1.0-alpha.0 | 3.9 KB |
+<p align="center">
+  <a href="https://github.com/search?q=topic%3Abun+org%3Ands-stack&type=repositories">
+    <img src="https://img.shields.io/badge/Bun%20Modules-9-000?logo=bun&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/nds-stack/bca-merchant-sdk">
+    <img src="https://img.shields.io/badge/Indonesia%20SDK-3-43853D?logo=gojek&style=for-the-badge"/>
+  </a>
+  <a href="https://www.npmjs.com/org/nds-stack">
+    <img src="https://img.shields.io/badge/npm-@nds--stack-CB3837?logo=npm&style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="center">
+  bunql · bun-cache · bun-logger · bun-env · bun-id · bun-rate-limit · bun-args · bun-semaphore · bun-pool
+</p>
 
 > Zero dependencies. Zero bloat. Zero compromises.
 
